@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avions de chasse français</title>
+</head>
+<body>
+    <h1>Avions de chasse français</h1>
+    <ul>
+        <li>
+            <h2>Rafale</h2>
+            <p>Constructeur: Dassault Aviation</p>
+            <p>Année de première mise en service: 2001</p>
+            <p>Vitesse maximale: Mach 2</p>
+            <p>Plafond pratique: 15 235 m</p>
+            <p>Portée: 3 700 km</p>
+        </li>
+        <li>
+            <h2>Mirage 2000</h2>
+            <p>Constructeur: Dassault Aviation</p>
+            <p>Année de première mise en service: 1984</p>
+            <p>Vitesse maximale: Mach 2.2</p>
+            <p>Plafond pratique: 17 060 m</p>
+            <p>Portée: 1 550 km</p>
+        </li>
+        <li>
+            <h2>Rafale Marine</h2>
+            <p>Constructeur: Dassault Aviation</p>
+            <p>Année de première mise en service: 2000</p>
+            <p>Vitesse maximale: Mach 2</p>
+            <p>Plafond pratique: 15 235 m</p>
+            <p>Portée: 3 700 km</p>
+        </li>
+        <li>
+            <h2>Étendard</h2>
+            <p>Constructeur: Dassault Aviation</p>
+            <p>Année de première mise en service: 1958</p>
+            <p>Vitesse maximale: Mach 1.3</p>
+            <p>Plafond pratique: 15 000 m</p>
+            <p>Portée: 1 800 km</p>
+        </li>
+        <li>
+            <h2>Super Étendard</h2>
+            <p>Constructeur: Dassault Aviation</p>
+            <p>Année de première mise en service: 1978</p>
+            <p>Vitesse maximale: Mach 1.3</p>
+            <p>Plafond pratique: 15 000 m</p>
+            <p>Portée: 1 400 km</p>
+        </li>
+    </ul>
+</body>
+</html>
